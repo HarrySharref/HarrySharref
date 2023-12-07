@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarrySharref
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning .net , blazor , etc
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SchoolEx.Onion
 - 📫 How to reach me herashareef2611@gmail.com
 
 <!---
